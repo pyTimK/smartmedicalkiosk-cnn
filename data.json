@@ -1,0 +1,1164 @@
+{
+  "data": [
+    {
+      "age": 45,
+      "weight": 72,
+      "height": 170,
+      "temp": 36.8,
+      "SBP": 130,
+      "DBP": 82,
+      "heart_rate": 112,
+      "spo2": 97
+    },
+    {
+      "age": 32,
+      "weight": 68,
+      "height": 175,
+      "temp": 36.5,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 88,
+      "spo2": 95
+    },
+    {
+      "age": 58,
+      "weight": 64,
+      "height": 163,
+      "temp": 37.2,
+      "SBP": 125,
+      "DBP": 79,
+      "heart_rate": 102,
+      "spo2": 96
+    },
+    {
+      "age": 70,
+      "weight": 78,
+      "height": 162,
+      "temp": 36.9,
+      "SBP": 135,
+      "DBP": 84,
+      "heart_rate": 120,
+      "spo2": 94
+    },
+    {
+      "age": 29,
+      "weight": 61,
+      "height": 168,
+      "temp": 36.7,
+      "SBP": 112,
+      "DBP": 72,
+      "heart_rate": 76,
+      "spo2": 98
+    },
+    {
+      "age": 53,
+      "weight": 80,
+      "height": 180,
+      "temp": 36.8,
+      "SBP": 128,
+      "DBP": 81,
+      "heart_rate": 105,
+      "spo2": 97
+    },
+    {
+      "age": 42,
+      "weight": 75,
+      "height": 172,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 75,
+      "heart_rate": 95,
+      "spo2": 96
+    },
+    {
+      "age": 61,
+      "weight": 69,
+      "height": 166,
+      "temp": 36.4,
+      "SBP": 126,
+      "DBP": 78,
+      "heart_rate": 110,
+      "spo2": 95
+    },
+    {
+      "age": 39,
+      "weight": 73,
+      "height": 175,
+      "temp": 36.7,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 100,
+      "spo2": 96
+    },
+    {
+      "age": 48,
+      "weight": 67,
+      "height": 168,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 82,
+      "heart_rate": 115,
+      "spo2": 97
+    },
+    {
+      "age": 25,
+      "weight": 70,
+      "height": 180,
+      "temp": 36.9,
+      "SBP": 118,
+      "DBP": 75,
+      "heart_rate": 92,
+      "spo2": 98
+    },
+    {
+      "age": 57,
+      "weight": 76,
+      "height": 163,
+      "temp": 37.1,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 105,
+      "spo2": 96
+    },
+    {
+      "age": 33,
+      "weight": 71,
+      "height": 170,
+      "temp": 36.8,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 98,
+      "spo2": 97
+    },
+    {
+      "age": 66,
+      "weight": 82,
+      "height": 175,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 49,
+      "weight": 68,
+      "height": 169,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 100,
+      "spo2": 96
+    },
+    {
+      "age": 28,
+      "weight": 64,
+      "height": 166,
+      "temp": 36.7,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 85,
+      "spo2": 98
+    },
+    {
+      "age": 54,
+      "weight": 79,
+      "height": 172,
+      "temp": 36.8,
+      "SBP": 126,
+      "DBP": 80,
+      "heart_rate": 103,
+      "spo2": 97
+    },
+    {
+      "age": 41,
+      "weight": 74,
+      "height": 171,
+      "temp": 36.5,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 62,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.4,
+      "SBP": 128,
+      "DBP": 79,
+      "heart_rate": 108,
+      "spo2": 95
+    },
+    {
+      "age": 35,
+      "weight": 72,
+      "height": 173,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 76,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 67,
+      "weight": 83,
+      "height": 178,
+      "temp": 36.9,
+      "SBP": 134,
+      "DBP": 85,
+      "heart_rate": 115,
+      "spo2": 94
+    },
+    {
+      "age": 30,
+      "weight": 66,
+      "height": 167,
+      "temp": 36.5,
+      "SBP": 114,
+      "DBP": 73,
+      "heart_rate": 82,
+      "spo2": 98
+    },
+    {
+      "age": 56,
+      "weight": 78,
+      "height": 179,
+      "temp": 37.0,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 106,
+      "spo2": 97
+    },
+    {
+      "age": 36,
+      "weight": 70,
+      "height": 170,
+      "temp": 36.6,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 95,
+      "spo2": 96
+    },
+    {
+      "age": 63,
+      "weight": 71,
+      "height": 164,
+      "temp": 36.3,
+      "SBP": 122,
+      "DBP": 75,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 37,
+      "weight": 73,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 64,
+      "weight": 79,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 38,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 94,
+      "spo2": 98
+    },
+    {
+      "age": 55,
+      "weight": 77,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 104,
+      "spo2": 97
+    },
+    {
+      "age": 40,
+      "weight": 72,
+      "height": 171,
+      "temp": 36.4,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 65,
+      "weight": 74,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 110,
+      "spo2": 95
+    },
+    {
+      "age": 31,
+      "weight": 67,
+      "height": 169,
+      "temp": 36.8,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 88,
+      "spo2": 98
+    },
+    {
+      "age": 68,
+      "weight": 82,
+      "height": 180,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 114,
+      "spo2": 95
+    },
+    {
+      "age": 50,
+      "weight": 69,
+      "height": 167,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 102,
+      "spo2": 96
+    },
+    {
+      "age": 27,
+      "weight": 65,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 114,
+      "DBP": 72,
+      "heart_rate": 84,
+      "spo2": 98
+    },
+    {
+      "age": 52,
+      "weight": 76,
+      "height": 176,
+      "temp": 36.8,
+      "SBP": 126,
+      "DBP": 80,
+      "heart_rate": 104,
+      "spo2": 97
+    },
+    {
+      "age": 43,
+      "weight": 71,
+      "height": 173,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 60,
+      "weight": 70,
+      "height": 166,
+      "temp": 36.4,
+      "SBP": 128,
+      "DBP": 79,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 34,
+      "weight": 72,
+      "height": 175,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 76,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 69,
+      "weight": 83,
+      "height": 178,
+      "temp": 36.9,
+      "SBP": 134,
+      "DBP": 85,
+      "heart_rate": 115,
+      "spo2": 94
+    },
+    {
+      "age": 51,
+      "weight": 66,
+      "height": 165,
+      "temp": 36.5,
+      "SBP": 114,
+      "DBP": 73,
+      "heart_rate": 83,
+      "spo2": 98
+    },
+    {
+      "age": 26,
+      "weight": 78,
+      "height": 179,
+      "temp": 37.0,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 106,
+      "spo2": 97
+    },
+    {
+      "age": 44,
+      "weight": 70,
+      "height": 170,
+      "temp": 36.6,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 94,
+      "spo2": 96
+    },
+    {
+      "age": 59,
+      "weight": 72,
+      "height": 164,
+      "temp": 36.3,
+      "SBP": 122,
+      "DBP": 75,
+      "heart_rate": 108,
+      "spo2": 95
+    },
+    {
+      "age": 70,
+      "weight": 74,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 53,
+      "weight": 79,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 39,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 94,
+      "spo2": 98
+    },
+    {
+      "age": 58,
+      "weight": 77,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 103,
+      "spo2": 97
+    },
+    {
+      "age": 42,
+      "weight": 73,
+      "height": 171,
+      "temp": 36.4,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 61,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 38,
+      "weight": 67,
+      "height": 169,
+      "temp": 36.8,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 89,
+      "spo2": 98
+    },
+    {
+      "age": 57,
+      "weight": 81,
+      "height": 180,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 43,
+      "weight": 69,
+      "height": 167,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 101,
+      "spo2": 96
+    },
+    {
+      "age": 25,
+      "weight": 66,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 114,
+      "DBP": 72,
+      "heart_rate": 83,
+      "spo2": 98
+    },
+    {
+      "age": 56,
+      "weight": 76,
+      "height": 176,
+      "temp": 36.8,
+      "SBP": 126,
+      "DBP": 80,
+      "heart_rate": 105,
+      "spo2": 97
+    },
+    {
+      "age": 35,
+      "weight": 70,
+      "height": 173,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 63,
+      "weight": 71,
+      "height": 164,
+      "temp": 36.4,
+      "SBP": 128,
+      "DBP": 79,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 34,
+      "weight": 73,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 62,
+      "weight": 79,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 110,
+      "spo2": 95
+    },
+    {
+      "age": 33,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 90,
+      "spo2": 98
+    },
+    {
+      "age": 59,
+      "weight": 77,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 104,
+      "spo2": 97
+    },
+    {
+      "age": 41,
+      "weight": 72,
+      "height": 171,
+      "temp": 36.4,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 60,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 108,
+      "spo2": 95
+    },
+    {
+      "age": 32,
+      "weight": 67,
+      "height": 169,
+      "temp": 36.8,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 87,
+      "spo2": 98
+    },
+    {
+      "age": 68,
+      "weight": 82,
+      "height": 180,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 113,
+      "spo2": 95
+    },
+    {
+      "age": 47,
+      "weight": 73,
+      "height": 171,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 64,
+      "weight": 80,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 111,
+      "spo2": 95
+    },
+    {
+      "age": 40,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 93,
+      "spo2": 98
+    },
+    {
+      "age": 55,
+      "weight": 78,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 105,
+      "spo2": 97
+    },
+    {
+      "age": 44,
+      "weight": 71,
+      "height": 173,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 61,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 36,
+      "weight": 67,
+      "height": 169,
+      "temp": 36.8,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 88,
+      "spo2": 98
+    },
+    {
+      "age": 57,
+      "weight": 81,
+      "height": 180,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 43,
+      "weight": 69,
+      "height": 167,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 101,
+      "spo2": 96
+    },
+    {
+      "age": 25,
+      "weight": 66,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 114,
+      "DBP": 72,
+      "heart_rate": 82,
+      "spo2": 98
+    },
+    {
+      "age": 56,
+      "weight": 76,
+      "height": 176,
+      "temp": 36.8,
+      "SBP": 126,
+      "DBP": 80,
+      "heart_rate": 105,
+      "spo2": 97
+    },
+    {
+      "age": 35,
+      "weight": 70,
+      "height": 173,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 63,
+      "weight": 71,
+      "height": 164,
+      "temp": 36.4,
+      "SBP": 128,
+      "DBP": 79,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 34,
+      "weight": 73,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 62,
+      "weight": 79,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 110,
+      "spo2": 95
+    },
+    {
+      "age": 33,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 90,
+      "spo2": 98
+    },
+    {
+      "age": 59,
+      "weight": 77,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 104,
+      "spo2": 97
+    },
+    {
+      "age": 41,
+      "weight": 72,
+      "height": 171,
+      "temp": 36.4,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 60,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 108,
+      "spo2": 95
+    },
+    {
+      "age": 32,
+      "weight": 67,
+      "height": 169,
+      "temp": 36.8,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 87,
+      "spo2": 98
+    },
+    {
+      "age": 68,
+      "weight": 82,
+      "height": 180,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 113,
+      "spo2": 95
+    },
+    {
+      "age": 50,
+      "weight": 69,
+      "height": 167,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 102,
+      "spo2": 96
+    },
+    {
+      "age": 27,
+      "weight": 65,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 114,
+      "DBP": 72,
+      "heart_rate": 83,
+      "spo2": 98
+    },
+    {
+      "age": 52,
+      "weight": 76,
+      "height": 176,
+      "temp": 36.8,
+      "SBP": 126,
+      "DBP": 80,
+      "heart_rate": 104,
+      "spo2": 97
+    },
+    {
+      "age": 43,
+      "weight": 71,
+      "height": 173,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 60,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.4,
+      "SBP": 128,
+      "DBP": 79,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 35,
+      "weight": 72,
+      "height": 173,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 76,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 67,
+      "weight": 83,
+      "height": 178,
+      "temp": 36.9,
+      "SBP": 134,
+      "DBP": 85,
+      "heart_rate": 115,
+      "spo2": 94
+    },
+    {
+      "age": 30,
+      "weight": 66,
+      "height": 167,
+      "temp": 36.5,
+      "SBP": 114,
+      "DBP": 73,
+      "heart_rate": 82,
+      "spo2": 98
+    },
+    {
+      "age": 56,
+      "weight": 78,
+      "height": 179,
+      "temp": 37.0,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 106,
+      "spo2": 97
+    },
+    {
+      "age": 44,
+      "weight": 70,
+      "height": 170,
+      "temp": 36.6,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 94,
+      "spo2": 96
+    },
+    {
+      "age": 59,
+      "weight": 72,
+      "height": 164,
+      "temp": 36.3,
+      "SBP": 122,
+      "DBP": 75,
+      "heart_rate": 108,
+      "spo2": 95
+    },
+    {
+      "age": 70,
+      "weight": 74,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 53,
+      "weight": 79,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 39,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 94,
+      "spo2": 98
+    },
+    {
+      "age": 58,
+      "weight": 77,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 103,
+      "spo2": 97
+    },
+    {
+      "age": 42,
+      "weight": 73,
+      "height": 171,
+      "temp": 36.4,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 61,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 38,
+      "weight": 67,
+      "height": 169,
+      "temp": 36.8,
+      "SBP": 116,
+      "DBP": 72,
+      "heart_rate": 89,
+      "spo2": 98
+    },
+    {
+      "age": 57,
+      "weight": 81,
+      "height": 180,
+      "temp": 36.5,
+      "SBP": 132,
+      "DBP": 83,
+      "heart_rate": 112,
+      "spo2": 95
+    },
+    {
+      "age": 43,
+      "weight": 69,
+      "height": 167,
+      "temp": 36.6,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 101,
+      "spo2": 96
+    },
+    {
+      "age": 25,
+      "weight": 66,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 114,
+      "DBP": 72,
+      "heart_rate": 83,
+      "spo2": 98
+    },
+    {
+      "age": 56,
+      "weight": 76,
+      "height": 176,
+      "temp": 36.8,
+      "SBP": 126,
+      "DBP": 80,
+      "heart_rate": 105,
+      "spo2": 97
+    },
+    {
+      "age": 35,
+      "weight": 70,
+      "height": 173,
+      "temp": 36.6,
+      "SBP": 122,
+      "DBP": 76,
+      "heart_rate": 98,
+      "spo2": 96
+    },
+    {
+      "age": 63,
+      "weight": 71,
+      "height": 164,
+      "temp": 36.4,
+      "SBP": 128,
+      "DBP": 79,
+      "heart_rate": 109,
+      "spo2": 95
+    },
+    {
+      "age": 34,
+      "weight": 73,
+      "height": 172,
+      "temp": 36.7,
+      "SBP": 120,
+      "DBP": 74,
+      "heart_rate": 97,
+      "spo2": 96
+    },
+    {
+      "age": 62,
+      "weight": 79,
+      "height": 176,
+      "temp": 36.5,
+      "SBP": 130,
+      "DBP": 81,
+      "heart_rate": 110,
+      "spo2": 95
+    },
+    {
+      "age": 33,
+      "weight": 68,
+      "height": 168,
+      "temp": 36.6,
+      "SBP": 118,
+      "DBP": 76,
+      "heart_rate": 90,
+      "spo2": 98
+    },
+    {
+      "age": 59,
+      "weight": 77,
+      "height": 177,
+      "temp": 36.9,
+      "SBP": 126,
+      "DBP": 79,
+      "heart_rate": 104,
+      "spo2": 97
+    },
+    {
+      "age": 41,
+      "weight": 72,
+      "height": 171,
+      "temp": 36.4,
+      "SBP": 124,
+      "DBP": 78,
+      "heart_rate": 96,
+      "spo2": 96
+    },
+    {
+      "age": 60,
+      "weight": 70,
+      "height": 165,
+      "temp": 36.7,
+      "SBP": 128,
+      "DBP": 80,
+      "heart_rate": 108,
+      "spo2": 95
+    }
+  ]
+}
